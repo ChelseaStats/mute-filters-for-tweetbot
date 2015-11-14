@@ -20,7 +20,7 @@
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
-+ `#FIFA\w*` - Eurovision
++ `#FIFA\w*` - Fifa (including the game)
 + `#GBBO\w*` - Great British Bake Off
 + `#BakeOff\w*` - Great British Bake Off
 + `#BAFTA\w*` - Bafta
