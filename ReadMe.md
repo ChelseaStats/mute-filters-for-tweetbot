@@ -33,7 +33,7 @@
 ##### Format
 
 + `^[A-Z\s\p{P}]*$` - tweets in all caps
-+ `\n{6,}` — Posts with 5+ new lines.
++ `\n{6,}` — Posts with 6+ new lines.
 + `(#.*?){6,}` — Posts with 6+ hastags.
 + `#\w{24,}` — Posts that contain long hashtags.
 + + `(@.*){5}` - mute all tweets containing more than 5 @ mentions.
