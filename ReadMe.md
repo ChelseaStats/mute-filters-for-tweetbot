@@ -17,6 +17,16 @@
 
 + `\b(?i:B.*ber)\b` — Filter all references to the word Bieber
 + `[D|d]aily [M|m]ail?` - Daily Mail
++ `#[A|a]sk\w*` - Any Ask [celeb] 
++ `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
++ `#[E|e]urovision\w*` - Eurovision
++ `#FIFA\w*` - Eurovision
++ `#GBBO\w*` - Great British Bake Off
++ `#BakeOff\w*` - Great British Bake Off
++ `#BAFTA\w*` - Bafta
++ `#BGT\w*` - Britains Got Talent
++ `#BBC\w*` - BBC hashtag
++ `#[B|b]allon\w*` - Ballon d'or
 
 ###### Format
 
