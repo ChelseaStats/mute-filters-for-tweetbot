@@ -33,7 +33,7 @@
 + `#BBC\w*` - BBC hashtag
 + `#[B|b]allon\w*` - Ballon d'or
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
-+ `#ssngq\w*` - Sky Sports News Hashtags
++ `#ssnhq\w*` - Sky Sports News Hashtags
 + `#[V|v]ote\w*` - Vote hashtags
 
 ###### Format
