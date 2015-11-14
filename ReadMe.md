@@ -9,14 +9,19 @@
 + `^((#|@)\S+\s*)+$` - Tweets consisting solely of @usernames and #hashtags, separated by whitespace, with no substantive content
 + `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc
 
-###### Check-ins
+###### Check-ins, social sites etc
 
 + `(?i)checked.*in` - I checked in at...
++ `LinkedIn` - Linked In
 
-###### Celebs and crap
+###### Celebs 
 
 + `\b(?i:B.*ber)\b` — Filter all references to the word Bieber
++ `\b([B|b]eckham)\b` — Filter all references to the word Beckham
+
+##### Media
 + `[D|d]aily [M|m]ail?` - Daily Mail
++ `Mail Online` - Daily Mail
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
