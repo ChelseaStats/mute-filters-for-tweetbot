@@ -32,7 +32,7 @@
 + `#BGT\w*` - Britains Got Talent
 + `#BBC\w*` - BBC hashtag
 + `#[B|b]allon\w*` - Ballon d'or
-+ `#(Glasto|GLASTO|glasto)\w*` - Glastobury
++ `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssngq\w*` - Sky Sports News Hashtags
 + `#[V|v]ote\w*` - Vote hashtags
 
