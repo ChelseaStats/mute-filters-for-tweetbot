@@ -16,6 +16,7 @@
 ##### Media
 + `[D|d]aily [M|m]ail?` - Daily Mail
 + `Mail Online` - Daily Mail
++ `dailym.ai` - Daily Mail
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
