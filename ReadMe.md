@@ -1,7 +1,7 @@
 #### Mute Filters for Tweetbot
 
 > A bunch of regexes for muting on Tweetbot, the popular iOS/Mac twitter app.
-> It is recommended you test regexes with some tweets on regexr.com
+> It is recommended you test regexes with some tweet text (tweetbot lets you copy a tweet's text, paste it here) on regexr.com
 
 ##### Check-ins, social sites user requests etc
 
