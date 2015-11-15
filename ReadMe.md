@@ -1,6 +1,7 @@
-#### mute filters for tweetbot
+#### Mute Filters for Tweetbot
 
-> A bunch of regexes for muting on Tweetbot
+> A bunch of regexes for muting on Tweetbot, the popular iOS/Mac twitter app.
+> It is recommended you test regexes with some tweets on regexr.com
 
 ##### Check-ins, social sites user requests etc
 
@@ -14,9 +15,7 @@
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
 
 ##### Media
-+ `[D|d]aily [M|m]ail?` - Daily Mail
-+ `Mail Online` - Daily Mail
-+ `dailym.ai` - Daily Mail
++ `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai` - Daily Mail/Fail
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
