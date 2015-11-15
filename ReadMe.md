@@ -38,3 +38,20 @@
 + `#\w{24,}` — Posts that contain long hashtags.
 + + `(@.*){5}` - mute all tweets containing more than 5 @ mentions.
 + `^((#|@)\S+\s*)+$` - Tweets consisting solely of @usernames and #hashtags, separated by whitespace
+
+
+##### Apps (mute clients)
+
++ SumAll
++ SumAll Authentication
++ Twitter Ads
++ Unfollowers
++ Unfollowers.me
++ Untappd
++ LinkedIn
++ JustUnfollow
++ Foursquare
++ fllwrs
++ Deezer
++ BreatheSport
++ Bloglovin
