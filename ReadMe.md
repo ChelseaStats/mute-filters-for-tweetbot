@@ -11,7 +11,7 @@
 
 ##### Celebs 
 
-+ `\b(?i:B.*ber)\b|bieb/w*` — Filter all references to the word Bieber
++ `([B|b]ieber)|([B|b]ieb)` — Filter all references to the word Bieber
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
 
 ##### Media
