@@ -14,6 +14,7 @@
 
 + `([B|b]ieber)|([B|b]ieb)` — Filter all references to the word Bieber
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
++ `we go again` - Gerrard said this once, now everyone does. irritating as f*ck
 
 ##### Media
 + `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai` - Daily Mail/Fail
@@ -57,4 +58,3 @@
 + BreatheSport
 + Bloglovin
 + Twibbon
-+ 
