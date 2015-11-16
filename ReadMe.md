@@ -31,6 +31,7 @@
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssnhq\w*` - Sky Sports News Hashtags
 + `#[V|v]ote\w*` - Vote hashtags
++ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some mentions
 
 ##### Format
 
