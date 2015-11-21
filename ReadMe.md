@@ -10,11 +10,16 @@
 + `LinkedIn` - Linked In
 + `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc
 
+##### Irritants 
+
++ `#(([D|d]arts\w*)|([A|a]shes\w*))` — Sports I don't care for
++ `go again` - Gerrard said this once, now everyone does. irritating as f*ck
+
 ##### Celebs 
 
 + `([B|b]ieber)|([B|b]ieb)` — Filter all references to the word Bieber
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
-+ `we go again` - Gerrard said this once, now everyone does. irritating as f*ck
+
 
 ##### Media
 + `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai` - Daily Mail/Fail
