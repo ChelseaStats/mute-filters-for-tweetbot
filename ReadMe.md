@@ -15,7 +15,7 @@
 
 + `#(([D|d]arts\w*)|([A|a]shes\w*))` — Sports I don't care for
 + `go again` - Gerrard said this once, now everyone does. irritating as f*ck
-+ `#NW|#NowWatching|#NP|#Nowplaying` - now playing/watching
++ `(#NW)|(#NowWatching)|(#NP)|(#Nowplaying)` - now playing/watching
 
 ##### Celebs 
 
@@ -35,7 +35,8 @@
 + `#BAFTA\w*` - Bafta
 + `#BGT\w*` - Britains Got Talent
 + `#BBC\w*` - BBC hashtag
-+  `#TheApprentice|apprentice` - Apprentice obvs.
++ `#[H|h]omeland` - TV show i don't watch
++  `(#TheApprentice)|(#apprentice)` - Apprentice obvs.
 + `#[B|b]allon\w*` - Ballon d'or
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssnhq\w*` - Sky Sports News Hashtags
@@ -52,9 +53,11 @@
 
 ##### Accounts
 
-+ `@predictthesix` 
-+ `@chelseafansYT`
-+ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some people i follow write for these but i don't really care.
++ `(@predictthesix)` - some people i follow promote these, but i don't really care
++ `(@chelseafansYT)` - some people i follow promote these, but i don't really care
++ `(@BreathSport)` - some people i follow write for these but i don't really care.
++ `(@GetWestChelsea)` - some people i follow write for these but i don't really care.
++ `(@uMAXitFootball)` - some people i follow write for these but i don't really care.
 
 ##### Apps (mute clients)
 
