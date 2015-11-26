@@ -40,7 +40,6 @@
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssnhq\w*` - Sky Sports News Hashtags
 + `#[V|v]ote\w*` - Vote hashtags
-+ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some people i follow write for these but i don't really care.
 
 ##### Format
 
@@ -55,6 +54,7 @@
 
 + `@predictthesix` 
 + `@chelseafansYT`
++ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some people i follow write for these but i don't really care.
 
 ##### Apps (mute clients)
 
