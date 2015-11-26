@@ -75,3 +75,8 @@
 + BreatheSport
 + Bloglovin
 + Twibbon
++ Kicca (Syndicate)
++ SnappyTV.com
++ SoundCloud
++ Facebook
++ Crowdfire App
