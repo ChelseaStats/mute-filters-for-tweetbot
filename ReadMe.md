@@ -9,11 +9,13 @@
 + `(?i)checked.*in` - I checked in at...
 + `LinkedIn` - Linked In
 + `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc
++  `( RT -|LIKE -)` - people stil use these instead of proper polls.
 
 ##### Irritants 
 
 + `#(([D|d]arts\w*)|([A|a]shes\w*))` — Sports I don't care for
 + `go again` - Gerrard said this once, now everyone does. irritating as f*ck
++ `#NW|#NowWatching|#NP|#Nowplaying` - now playing/watching
 
 ##### Celebs 
 
@@ -23,7 +25,7 @@
 
 
 ##### Media
-+ `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai` - Daily Mail/Fail
++ `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai|dailymail.co.uk` - Daily Mail/Fail
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
@@ -33,11 +35,12 @@
 + `#BAFTA\w*` - Bafta
 + `#BGT\w*` - Britains Got Talent
 + `#BBC\w*` - BBC hashtag
++  `#TheApprentice|apprentice` - Apprentice obvs.
 + `#[B|b]allon\w*` - Ballon d'or
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssnhq\w*` - Sky Sports News Hashtags
 + `#[V|v]ote\w*` - Vote hashtags
-+ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some mentions
++ `(@BreathSport)|(@GetWestChelsea)|(@uMAXitFootball)` - some people i follow write for these but i don't really care.
 
 ##### Format
 
@@ -48,6 +51,10 @@
 + + `(@.*){5}` - mute all tweets containing more than 5 @ mentions.
 + `^((#|@)\S+\s*)+$` - Tweets consisting solely of @usernames and #hashtags, separated by whitespace
 
+##### Accounts
+
++ `@predictthesix` 
++ `@chelseafansYT`
 
 ##### Apps (mute clients)
 
