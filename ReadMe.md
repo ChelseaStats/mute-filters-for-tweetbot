@@ -53,11 +53,11 @@
 
 ##### Accounts
 
-+ `(@predictthesix)` - some people i follow promote these, but i don't really care
-+ `(@chelseafansYT)` - some people i follow promote these, but i don't really care
-+ `(@BreathSport)` - some people i follow write for these but i don't really care.
-+ `(@GetWestChelsea)` - some people i follow write for these but i don't really care.
-+ `(@uMAXitFootball)` - some people i follow write for these but i don't really care.
++ `predictthesix` - some people i follow promote these, but i don't really care
++ `chelseafansYT` - some people i follow promote these, but i don't really care
++ `BreathSport` - some people i follow write for these but i don't really care.
++ `GetWestChelsea` - some people i follow write for these but i don't really care.
++ `uMAXitFootball` - some people i follow write for these but i don't really care.
 
 ##### Apps (mute clients)
 
