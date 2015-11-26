@@ -19,6 +19,7 @@
 
 + `([B|b]ieber)|([B|b]ieb)` — Filter all references to the word Bieber
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
++ `([K|k]atie [H|h]opkins)` - Filter all reference to the rent a troll.
 
 
 ##### Media
