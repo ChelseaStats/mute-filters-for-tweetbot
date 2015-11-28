@@ -15,7 +15,7 @@
 
 + `#(([D|d]arts\w*)|([A|a]shes\w*))` — Sports I don't care for
 + `go again` - Gerrard said this once, now everyone does. irritating as f*ck
-+ `(#NW)|(#NowWatching)|(#NP)|(#Nowplaying)` - now playing/watching
++ `(#NW)|(#Now[W|w]atching)|(#NP)|(#Now[P|p]laying)` - now playing/watching
 
 ##### Celebs 
 
@@ -25,7 +25,7 @@
 
 
 ##### Media
-+ `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai|dailymail.co.uk` - Daily Mail/Fail
++ `[D|d]aily [M|m|F|f]ail?|Mail Online|dailym.ai|dailymail.co.uk|[M|m]ail[S|s]port` - Daily Mail/Fail
 + `#[A|a]sk\w*` - Any Ask [celeb] 
 + `([X|x] [F|f]actor|[X|x][F|f]actor|#x[F|f]actor)` - x factor
 + `#[E|e]urovision\w*` - Eurovision
@@ -54,9 +54,9 @@
 ##### Accounts
 
 + `predictthesix` - some people i follow promote these, but i don't really care
-+ `chelseafansYT` - some people i follow promote these, but i don't really care
-+ `BreathSport` - some people i follow write for these but i don't really care.
-+ `BreatheSport` - some people i follow write for these but i don't really care.
++ `chelsea[F|f]ansYT` - some people i follow promote these, but i don't really care
++ `Breath[S|s]port` - some people i follow write for these but i don't really care.
++ `Breathe[S|s]port` - some people i follow write for these but i don't really care.
 + `GetWestChelsea` - some people i follow write for these but i don't really care.
 + `uMAXitFootball` - some people i follow write for these but i don't really care.
 
