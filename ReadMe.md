@@ -53,11 +53,11 @@
 
 ##### Accounts
 
-+ `predictthesix` - some people i follow promote these, but i don't really care
-+ `chelsea[F|f]ansYT` - some people i follow promote these, but i don't really care
-+ `Breath[S|s]port` - some people i follow write for these but i don't really care.
-+ `Breathe[S|s]port` - some people i follow write for these but i don't really care.
-+ `GetWestChelsea` - some people i follow write for these but i don't really care.
++ `[P|p]redict[T|t]he[S|s]ix` - some people i follow promote these, but i don't really care
++ `[C|c]helsea[F|f]ansYT` - some people i follow promote these, but i don't really care
++ `[B|b]reath[S|s]port` - some people i follow write for these but i don't really care.
++ `[B|b]reathe[S|s]port` - some people i follow write for these but i don't really care.
++ `[G|g]et[W|w]est[C|c]helsea` - some people i follow write for these but i don't really care.
 + `uMAXitFootball` - some people i follow write for these but i don't really care.
 
 ##### Apps (mute clients)
