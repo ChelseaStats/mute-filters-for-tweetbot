@@ -13,7 +13,7 @@
 
 ##### Irritants 
 
-+ `#(([D|d]arts\w*)|([A|a]shes\w*))` — Sports I don't care for
++ `#(([D|d]arts\w*)|([A|a]shes\w*))|([B|b]oxing\w*))` — Sports I don't care for
 + `go again` - Gerrard said this once, now everyone does. irritating as f*ck
 + `(#NW)|(#Now[W|w]atching)|(#NP)|(#Now[P|p]laying)` - now playing/watching
 
@@ -22,6 +22,7 @@
 + `([B|b]ieber)|([B|b]ieb)` — Filter all references to the word Bieber
 + `\b([B|b]eckham)\b` — Filter all references to the word Beckham
 + `([K|k]atie [H|h]opkins)` - Filter all reference to the rent a troll.
++ `([D|d]onald [T|t]rump)|[T|t]rump` - Donald Trump's a c***
 
 
 ##### Media
@@ -35,6 +36,7 @@
 + `#BAFTA\w*` - Bafta
 + `#BGT\w*` - Britains Got Talent
 + `#BBC\w*` - BBC hashtag
++ `#ImACeleb` - z list shithousery
 + `#[H|h]omeland` - TV show i don't watch
 +  `(#TheApprentice)|(#apprentice)` - Apprentice obvs.
 + `#[B|b]allon\w*` - Ballon d'or
