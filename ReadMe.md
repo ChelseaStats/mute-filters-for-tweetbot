@@ -10,6 +10,7 @@
 + `LinkedIn` - Linked In
 + `(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)` - Follow me, watch me, follow back, watch me please, follow me please etc
 +  `( RT -|LIKE -)` - people stil use these instead of proper polls.
++  `I.liked.a.@YouTube.video` - youtube etc
 
 ##### Irritants 
 
