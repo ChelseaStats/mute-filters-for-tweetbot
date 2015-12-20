@@ -39,7 +39,7 @@
 + `#BBC\w*` - BBC hashtag
 + `#ImACeleb` - z list shithousery
 + `#[H|h]omeland` - TV show i don't watch
-+  `(#TheApprentice)|(#apprentice)` - Apprentice obvs.
++  `(#[T|t]he[A|a]pprentice)|(#[A|a]pprentice)` - Apprentice obvs.
 + `#[B|b]allon\w*` - Ballon d'or
 + `#(Glasto|GLASTO|glasto)\w*` - Glastonbury
 + `#ssnhq\w*` - Sky Sports News Hashtags
